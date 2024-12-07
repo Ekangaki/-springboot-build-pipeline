@@ -1,8 +1,8 @@
 #!/bin/bash
 
 #---------------------------------------------#
-# Author: Adam WezvaTechnologies
-# Call/Whatsapp: +91-9739110917
+# Author: Ekangaki Njang
+# Call/Whatsapp: +1 2406431098
 #---------------------------------------------#
 
 # Ensure script is run with root privileges
